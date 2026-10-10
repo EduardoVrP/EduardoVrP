@@ -1,2 +1,3 @@
-By the time I'm writting this, you'll find homeworks, school projects or useless things here.
-You've been warned about it, so feel yourself free to watch everything around this profile.
+# Eduardo Vargas
+
+You can find a variaty of academic projects around this profile. If you're interested in Haskell, proof theory or logic, there are some things that are worth taking a look at.   
